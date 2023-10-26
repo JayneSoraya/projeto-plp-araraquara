@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600&family=Ubuntu:wght@300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    /*height: 100vh;*/
+    box-sizing: border-box;
+    background-color: #F6F6F6;
+    color: #000000;
+}
+
+.titulo-destaque{
+    color: #22D4FD;
+}
+.cabecalho{
+    padding: 0% 0% 0% 10%;
+}
+.cabecalho_menu{
+    display: flex;
+    gap: 80px;
+}
+
+.cabecalho_menu_link{
+    font-size: 24px;
+    font-weight: 1000px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #22D4FD;
+    text-decoration: none;
+}
+
+
+.apresentacao{
+    padding: 0% 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.apresentacao__conteudo{
+    width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.apresentacao__conteudo__titulo{
+    font-size: 36px;
+    font-family: 'Cinzel', serif;
+}
+
+.apresentacao__conteudo__texto{
+    font-size: 24px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.apresentacao__links{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+}
+.apresentacao__links__subtitulo{
+    font-size: 30px;
+}
+.apresentacao__links__link{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    background-color: black;
+    width: 280px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 21.5px 0;
+    text-decoration: none;
+    color: #22D4FD;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.apresentacao__links__link:hover{
+    background-color: #272727;
+}
+
+.rodape{
+    padding: 24px;
+    font-size: 20px;
+    color: #000000;
+    background-color: #22D4FD;
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
