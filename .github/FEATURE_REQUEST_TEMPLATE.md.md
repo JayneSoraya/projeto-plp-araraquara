@@ -1,7 +1,11 @@
-name: Solicitação de Funcionalidade
-about: Solicitar uma nova funcionalidade para o projeto
-title: "[FEATURE] Descrição breve da funcionalidade"
-labels: enhancement
+<h1>
+  Templante para solicitar uma funcionalidade
+</h1>
+name: **Solicitação de Funcionalidade**
+about: **Solicitar uma nova funcionalidade para o projeto**
+title: **[FEATURE] Descrição breve da funcionalidade**
+
+labels: **enhancement
 assignees: 
 
 **Sua Solicitação de Funcionalidade Está Relacionada a Um Problema? Por favor descreva.**

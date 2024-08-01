@@ -1,7 +1,10 @@
-name: Pergunta Geral
-about: Faça uma pergunta sobre o projeto
-title: "[QUESTION] Descrição breve da pergunta"
-labels: question
+<h1>
+  Templante para uma pergunta geral
+</h1>
+name: **Pergunta Geral**
+about: **Faça uma pergunta sobre o projeto**
+title: **[QUESTION] Descrição breve da pergunta**
+labels: **question**
 assignees: 
 
 
