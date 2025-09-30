@@ -1,5 +1,5 @@
 <h4 align = "center">
-    :construction: Projeto em construção :construction:
+    😢 Projeto descontinuado 🥺
 </h4>
 
 # projeto-plp-araraquara
@@ -17,7 +17,10 @@
 * [Licença](#licença)
 * [Conclusão](#conclusão)
 
-# Título e Imagem de capa
+# Título e Imagem de capa 
+Aplicativo PLP
+
+<img src = "./assets/IMG_4955.jpg" alt = "Mulheres felizes" width="300" height="200">
 
 # Badges
 
@@ -28,12 +31,13 @@
 # Funcionalidades e Demonstração da Aplicação
 
 # Acesso ao Projeto
-
+Criado o documento de requisito e está disponível na pasta docs
 # Tecnologias utilizadas
 
 # Pessoas Desenvolvedoras do Projeto
-
+Jayne Soraya
 # Licença
 
 # Conclusão
+
 
